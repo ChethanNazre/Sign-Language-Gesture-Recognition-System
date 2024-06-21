@@ -2,14 +2,9 @@
 Hand Sign Interpreting using Python and Machine Learning 
 
 Sign Language Gesture Recognition System
+
 Overview
 The Sign Language Gesture Recognition System is designed to interpret hand gestures used in sign language and translate them into text or spoken language. This system aims to assist communication between individuals who use sign language and those who may not understand it.
-
-Features
-Real-time recognition of hand gestures.
-Conversion of recognized gestures into text or spoken output.
-Support for multiple sign languages (e.g., American Sign Language, British Sign Language).
-User-friendly interface for easy interaction.
 
 Technologies Used
 Programming Language: [Specify language(s) used, e.g., Python, C++]

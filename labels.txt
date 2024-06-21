@@ -1,0 +1,7 @@
+0 Hello
+1 Yes
+2 No
+3 Please
+4 Thank You
+5 Okay
+6 ILY
